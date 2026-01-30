@@ -1,0 +1,9 @@
+server:
+  port: 33400
+
+general:
+  kafka-topic: trader-updates
+
+incentive:
+  api:
+    url: http://localhost:8080/incentive
